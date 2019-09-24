@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\student\source\repos\functions\test\main.cpp(68): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\student\source\repos\functions\test\main.cpp(481): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\student\source\repos\functions\test\main.cpp(496): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\student\source\repos\functions\test\main.cpp(525): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\student\source\repos\functions\test\main.cpp(540): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  test.vcxproj -> C:\Users\Student\Source\Repos\Functions\Debug\test.exe
